@@ -1,0 +1,6 @@
+{
+  "name": "RefreshTokenView",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RefreshTokenView"
+}

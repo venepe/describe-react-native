@@ -1,0 +1,6 @@
+{
+  "name": "DiffLabel",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DiffLabel.js"
+}
